@@ -1,0 +1,6 @@
+Class Average: 69.04
+Topper: Charlie with 449 marks
+Number of failed students: 2
+Bob failed in: english
+David failed in: maths, physics
+Distinction holders (>90 avg): 0
